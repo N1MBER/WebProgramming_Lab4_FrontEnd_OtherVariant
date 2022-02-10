@@ -14,7 +14,7 @@
     "fibers": "^3.1.0",
     "html-webpack-plugin": "latest",
     "jquery": "^3.4.1",
-    "node-sass": "^4.0.0",
+    "node-sass": "^7.0.0",
     "popper.js": "^1.16.1",
     "primeicons": "^1.0.0",
     "primereact": "latest",
